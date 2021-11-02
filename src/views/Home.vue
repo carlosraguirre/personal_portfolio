@@ -11,7 +11,7 @@
           I'm
           <span
             class="typed"
-            data-typed-items="Designer, Developer, Freelancer, Photographer"
+            data-typed-items="Developer, Consultant, Outdoor, Learner"
           ></span>
         </p>
       </div>
@@ -31,7 +31,8 @@
               <img src="/assets/img/Profile2.jpg" class="img-fluid" alt="" />
             </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-              <h3>Full Stack Web Developer.</h3>
+              <h3>Full Stack Web Developer</h3>
+              </br>
               <p class="fst-italic">
               Magnam dolores commodi suscipit. Necessitatibus eius consequatur
               ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
