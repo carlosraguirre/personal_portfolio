@@ -95,103 +95,172 @@
         <div class="container">
           <div class="section-title">
             <h2>Resume</h2>
-            <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
-            </p>
+            <!-- <p>
+              Web developer with experience in financial statements audits and financial management consulting. With a unique history of quality assurance, project management and client relations, I am always striving to find efficiencies and build better solutions that translate to my approach to web development. Passionate in problem-solving and increasing my knowledge to better myself and my clients.
+            </p> -->
           </div>
 
           <div class="row">
             <div class="col-lg-6" data-aos="fade-up">
-              <h3 class="resume-title">Sumary</h3>
+              <h3 class="resume-title">Summary</h3>
               <div class="resume-item pb-0">
-                <h4>Alex Smith</h4>
+                <h4>Carlos Aguirre</h4>
                 <p>
                   <em
-                    >Innovative and deadline-driven Graphic Designer with 3+
-                    years of experience designing and developing user-centered
-                    digital/print marketing material from initial concept to
-                    final, polished deliverable.</em
+                    >Web developer with experience in financial statements audits and financial management consulting. With a unique history of quality assurance, project management and client relations, I am always striving to find efficiencies and build better solutions that translate to my approach to web development. Passionate in problem-solving and increasing my knowledge to better myself and my clients.</em
                   >
                 </p>
-                <ul>
+                <!-- <ul>
                   <li>Portland par 127,Orlando, FL</li>
                   <li>(123) 456-7891</li>
                   <li>alice.barkley@example.com</li>
+                </ul> -->
+              </div>
+              <h3 class="resume-title">Technical Skills</h3>
+              <div class="resume-item">
+                <ul>
+                  <li>
+                    Ruby, Rails, Vue.js, JavaScript, Python, Django, HTML, CSS, PostgreSQL, Git, GitHub, APIs, Pair-Programming, Testing, Object-Oriented Programming, Bootstrap
+                  </li>
                 </ul>
               </div>
-
               <h3 class="resume-title">Education</h3>
               <div class="resume-item">
-                <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                <h5>2015 - 2016</h5>
-                <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                <p>
-                  Qui deserunt veniam. Et sed aliquam labore tempore sed
-                  quisquam iusto autem sit. Ea vero voluptatum qui ut
-                  dignissimos deleniti nerada porti sand markend
-                </p>
+                <h4>Certificate in Full Stack Web Development</h4>
+                <h5>2021</h5>
+                <p><em>Actualize Coding Bootcamp</em></p>
+                <ul>
+                  <li>
+                    Capstone: Personally built a web app which allows the user to create custom lists to save their favorite restaurants or restaurants they want to visit. The app integrates the Documenu API to allow users to search for restaurants in their city. Built on a Ruby-on-Rails backend and a Vue.js frontend, incorporating and modifying JavaScript elements.
+                  </li>
+                  <li>            
+                    Bootcamp: Learned fundamentals and best practices in full-stack web development in areas of project architecture, backend, frontend, and how to effectively self-teach new technologies
+                    <ul>
+                      <li>             
+                        Generated technical requirements and determined the most effective solutions, created wireframes, designed schema, and researched outside resources
+                      </li>
+                      <li>
+                        Built and tested the backend, incorporating external APIs
+                      </li>
+                      <li>
+                        Created pages and RESTful routes, made web requests to retrieve data, formatted and styled results, incorporated libraries and themes
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
               </div>
               <div class="resume-item">
-                <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                <h5>2010 - 2014</h5>
-                <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                <p>
+                <h4>Master of Accounting</h4>
+                <h5>2013 - 2014</h5>
+                <p><em>Mason School of Business, College of William &amp; Mary, Williamsburg, VA</em></p>
+                <!-- <p>
                   Quia nobis sequi est occaecati aut. Repudiandae et iusto quae
                   reiciendis et quis Eius vel ratione eius unde vitae rerum
                   voluptates asperiores voluptatem Earum molestiae consequatur
                   neque etlon sader mart dila
-                </p>
+                </p> -->
               </div>
-            </div>
+              <div class="resume-item">
+                <h4>Bachelor of Arts in Government, Minor in Accounting</h4>
+                <h5>2009 - 2013</h5>
+                <p><em>College of William &amp; Mary, Williamsburg, VA</em></p>
+                <!-- <p>
+                  Quia nobis sequi est occaecati aut. Repudiandae et iusto quae
+                  reiciendis et quis Eius vel ratione eius unde vitae rerum
+                  voluptates asperiores voluptatem Earum molestiae consequatur
+                  neque etlon sader mart dila
+                </p> -->
+              </div>              
+            </div>           
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
               <h3 class="resume-title">Professional Experience</h3>
               <div class="resume-item">
-                <h4>Senior graphic design specialist</h4>
-                <h5>2019 - Present</h5>
-                <p><em>Experion, New York, NY </em></p>
+                <h4>Senior Consultant</h4>
+                <h5>2020 - Present</h5>
+                <p><em>Deloitte, Arlington, VA</em></p>
                 <ul>
                   <li>
-                    Lead in the design, development, and implementation of the
-                    graphic, layout, and production communication materials
+                    Delivered project plans, ensured deadlines were met and facilitated communications among all stakeholders
                   </li>
                   <li>
-                    Delegate tasks to the 7 members of the design team and
-                    provide counsel on all aspects of the project.
+                    Improved procedures and products through updating Standard Operating Procedures and enhancing external deliverables
                   </li>
                   <li>
-                    Supervise the assessment of all graphic materials in order
-                    to ensure quality and accuracy of the design
+                    Created style guides to improve the quality of project status reports
                   </li>
                   <li>
-                    Oversee the efficient use of production project budgets
-                    ranging from $2,000 - $25,000
+                    Led team trainings to implement enhanced style guides and set expectations for deliverables
                   </li>
                 </ul>
               </div>
               <div class="resume-item">
-                <h4>Graphic design specialist</h4>
-                <h5>2017 - 2018</h5>
-                <p><em>Stepping Stone Advertising, New York, NY</em></p>
+                <h4>Consultant</h4>
+                <h5>2018 - 2020</h5>
+                <p><em>Deloitte, Arlington, VA</em></p>
                 <ul>
                   <li>
-                    Developed numerous marketing programs (logos,
-                    brochures,infographics, presentations, and advertisements).
+                    Aided in completing a state government’s finance transformation through the consolidation of six PeopleSoft instances covering over 55 agencies into one, upgraded PeopleSoft instance. The transformation enabled the state government to confidently produce transparent financial reports, thus increasing its efficiency
+                    <ul>
+                      <li>
+                        Through conducting client interviews, developed comprehensive assessments evaluating the agencies’ readiness to implement and adopt the new ERP solution
+                      </li>
+                      <li>
+                        Managed the completion of Go-Live activities for two agencies, which included identifying resources needed, developing a tailored project plan, facilitating meetings among all stakeholders, maintaining deliverables and providing on-site support
+                      </li>                      
+                    </ul>
                   </li>
                   <li>
-                    Managed up to 5 projects or tasks at a given time while
-                    under pressure
+                    Created due diligence cases by compiling customer financial and background information ahead of client deadline to comply with federal anti-money laundering regulations
+                    <ul>
+                      <li>
+                        Developed new guidance to remediate the bank’s special client types
+                      </li>
+                      <li>
+                        Conducted quality assurance reviews on peers’ work
+                      </li>                      
+                    </ul>
+                  </li>                  
+                </ul>
+              </div>
+              <div class="resume-item">
+                <h4>Assurance</h4>
+                <h5>2014 - 2018</h5>
+                <p><em>CliftonLarsonAllen, Arlington, VA</em></p>
+                <ul>
+                  <li>
+                    Created cost savings after leading a team of internal auditors to ensure clients’ service providers adhered to federal policies
                   </li>
                   <li>
-                    Recommended and consulted with clients on the most
-                    appropriate graphic design
+                    Specialized in federal government financial statement audits and internal controls testing
                   </li>
                   <li>
-                    Created 4+ design presentations and proposals a month for
-                    clients and account managers
+                    Assessed reasonableness and accuracy of clients’ financials as well as identified and documented key risk areas
                   </li>
+                  <li>
+                    Developed audit programs to assess the design and effectiveness of internal controls
+                  </li>
+                  <li>
+                    Led on-site inventory and capital property testing for federal government agencies
+                  </li>
+                  <li>
+                    Audited non-profit entities by testing balance sheet items, performing grants compliance and conducting fraud interviews
+                  </li>                                    
+                </ul>
+              </div>
+              <div class="resume-item">
+                <h4>Intern</h4>
+                <h5>2012</h5>
+                <p><em>Supreme Court of the United States, Washington, DC</em></p>
+                <ul>
+                  <li>
+                    Archived the Supreme Court’s previous term’s cases by compiling all briefs and documents
+                  </li>
+                  <li>
+                    Streamlined the compiling and categorizing procedures, which led to an early completion of the Court’s archiving project
+                  </li>
+                  <li>
+                    Verified incoming briefs for the current term adhered to Court Rules
+                  </li>                  
                 </ul>
               </div>
             </div>
