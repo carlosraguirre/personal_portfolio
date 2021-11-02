@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+    <!-- ======= Mobile nav toggle button ======= -->
+    <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>    
     <!-- ======= Header ======= -->
     <header id="header">
       <div class="d-flex flex-column">
@@ -79,4 +81,5 @@
 </template>
 
 <style>
+
 </style>
