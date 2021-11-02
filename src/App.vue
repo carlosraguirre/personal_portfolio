@@ -7,7 +7,7 @@
       <div class="d-flex flex-column">
         <div class="profile">
           <img
-            src="assets/img/profile-small.jpg"
+            src="assets/img/Profile2.jpg"
             alt=""
             class="img-fluid rounded-circle"
           />
