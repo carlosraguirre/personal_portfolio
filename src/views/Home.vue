@@ -50,9 +50,18 @@
                       <i class="bi bi-chevron-right"></i>
                       <strong>City:</strong> <span>Washington, D.C.</span>
                     </li>
+                    <li>
+                      <i class="bi bi-chevron-right"></i>
+                      <strong>Email:</strong>
+                      <span>craguirre952@gmail.com</span>
+                    </li>
+                    <li>
+                      <i class="bi bi-chevron-right"></i>
+                      <strong>Current project:</strong> <span>Open to network</span>
+                    </li>                    
                   </ul>
                 </div>
-                <div class="col-lg-6">
+                <!-- <div class="col-lg-6">
                   <ul>
                     <li>
                       <i class="bi bi-chevron-right"></i>
@@ -64,7 +73,7 @@
                       <strong>Current project:</strong> <span>Open to network</span>
                     </li>
                   </ul>
-                </div>
+                </div> -->
               </div>
               <p>
                 <!-- Officiis eligendi itaque labore et dolorum mollitia officiis
