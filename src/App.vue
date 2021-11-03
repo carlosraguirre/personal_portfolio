@@ -15,7 +15,7 @@
           <div class="social-links mt-3 text-center">
             <a href="mailto:craguirre952@gmail.com" target="_blank" class="envelope"><i class="bi bi-envelope"></i></a>
             <a href="https://github.com/carlosraguirre" target="_blank"class="github"><i class="bi bi-github"></i></a>
-            <a href="#" class="globe"><i class="bi bi-globe"></i></a>
+            <!-- <a href="#" class="globe"><i class="bi bi-globe"></i></a> -->
             <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a> -->
             <a href="https://www.linkedin.com/in/aguirre-carlos/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
           </div>
