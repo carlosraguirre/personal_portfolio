@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div>
     <!-- ======= Mobile nav toggle button ======= -->
     <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>    
     <!-- ======= Header ======= -->
@@ -24,7 +24,7 @@
         <nav id="navbar" class="nav-menu navbar">
           <ul>
             <li>
-              <a href="#hero" class="nav-link scrollto active"
+              <a href="#top" class="nav-link scrollto"
                 ><i class="bx bx-home"></i> <span>Home</span></a
               >
             </li>
