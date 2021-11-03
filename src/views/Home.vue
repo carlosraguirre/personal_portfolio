@@ -311,7 +311,7 @@
                     title="App 1">
                     <i class="bx bx-plus"></i>
                   </a> -->
-                  <a href="/portfolio-details.html" title="More Details"
+                  <a href="/portfolio-yummylist.html" title="More Details"
                     ><span>YummyList</span>
                   </a>
                 </div>
