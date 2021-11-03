@@ -107,7 +107,7 @@
                 <h4>Carlos Aguirre</h4>
                 <p>
                   <em
-                    >Web developer with experience in financial statements audits and financial management consulting. With a unique history of quality assurance, project management and client relations, I am always striving to find efficiencies and build better solutions that translate to my approach to web development. Passionate in problem-solving and increasing my knowledge to better myself and my clients.</em
+                    >Web developer with experience in financial management consulting and financial statements audits. With a unique history of quality assurance, project management and client relations, I am always striving to find efficiencies and build better solutions that translate to my approach to web development. Passionate in problem-solving and increasing my knowledge to better myself and my clients.</em
                   >
                 </p>
                 <!-- <ul>
@@ -275,10 +275,7 @@
           <div class="section-title">
             <h2>Portfolio</h2>
             <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+              Check out some projects I have worked on for Actualize Coding Bootcamp and for fun.
             </p>
           </div>
 
@@ -287,8 +284,8 @@
               <ul id="portfolio-flters">
                 <li data-filter="*" class="filter-active">All</li>
                 <li data-filter=".filter-app">App</li>
-                <li data-filter=".filter-card">Card</li>
-                <li data-filter=".filter-web">Web</li>
+                <!-- <li data-filter=".filter-card">Card</li>
+                <li data-filter=".filter-web">Web</li> -->
               </ul>
             </div>
           </div>
@@ -298,29 +295,31 @@
             data-aos="fade-up"
             data-aos-delay="100"
           >
+            <!-- Project 1 -->
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img
-                  src="/assets/img/portfolio/portfolio-1.jpg"
+                  src="/assets/img/portfolio/cake.jpg"
                   class="img-fluid"
                   alt=""
                 />
                 <div class="portfolio-links">
-                  <a
-                    href="/assets/img/portfolio/portfolio-1.jpg"
+                  <!-- <a
+                    href="/assets/img/portfolio/cake.jpg"
                     data-gallery="portfolioGallery"
                     class="portfolio-lightbox"
-                    title="App 1"
-                    ><i class="bx bx-plus"></i
-                  ></a>
+                    title="App 1">
+                    <i class="bx bx-plus"></i>
+                  </a> -->
                   <a href="/portfolio-details.html" title="More Details"
-                    ><i class="bx bx-link"></i
-                  ></a>
+                    ><span>YummyList</span>
+                  </a>
                 </div>
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <!-- Project 2 -->
+            <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
               <div class="portfolio-wrap">
                 <img
                   src="/assets/img/portfolio/portfolio-2.jpg"
@@ -340,9 +339,10 @@
                   ></a>
                 </div>
               </div>
-            </div>
+            </div> -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <!-- Project 3 -->
+            <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img
                   src="/assets/img/portfolio/portfolio-3.jpg"
@@ -494,7 +494,7 @@
                   ></a>
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </section>
