@@ -7,11 +7,11 @@
       <div class="d-flex flex-column">
         <div class="profile">
           <img
-            src="assets/img/Profile2.jpg"
+            src="/assets/img/Profile2.jpg"
             alt=""
             class="img-fluid rounded-circle"
           />
-          <h1 class="text-light"><a href="/index.html">Carlos Aguirre</a></h1>
+          <h1 class="text-light"><a href="/">Carlos Aguirre</a></h1>
           <div class="social-links mt-3 text-center">
             <a href="mailto:craguirre952@gmail.com" target="_blank" class="envelope"><i class="bi bi-envelope"></i></a>
             <a href="https://github.com/carlosraguirre" target="_blank"class="github"><i class="bi bi-github"></i></a>
@@ -66,7 +66,7 @@
           </div>
         </div>
       </footer>
-      <!-- End  Footer -->
+      <!-- End  Footer -->     
   </div>
 </template>
 

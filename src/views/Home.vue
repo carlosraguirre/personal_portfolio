@@ -284,8 +284,8 @@
               <ul id="portfolio-flters">
                 <li data-filter="*" class="filter-active">All</li>
                 <li data-filter=".filter-app">App</li>
-                <!-- <li data-filter=".filter-card">Card</li>
-                <li data-filter=".filter-web">Web</li> -->
+                <!-- <li data-filter=".filter-card">Card</li> -->
+                <!-- <li data-filter=".filter-web">Web</li> -->
               </ul>
             </div>
           </div>
@@ -311,7 +311,7 @@
                     title="App 1">
                     <i class="bx bx-plus"></i>
                   </a> -->
-                  <a href="/portfolio-yummylist.html" title="More Details"
+                  <a href="/yummylist" title="More Details"
                     ><span>YummyList</span>
                   </a>
                 </div>
@@ -319,7 +319,7 @@
             </div>
 
             <!-- Project 2 -->
-            <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
               <div class="portfolio-wrap">
                 <img
                   src="/assets/img/portfolio/portfolio-2.jpg"
@@ -339,10 +339,10 @@
                   ></a>
                 </div>
               </div>
-            </div> -->
+            </div>
 
             <!-- Project 3 -->
-            <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img
                   src="/assets/img/portfolio/portfolio-3.jpg"
@@ -494,26 +494,31 @@
                   ></a>
                 </div>
               </div>
-            </div> -->
+            </div>
           </div>
         </div>
       </section>
       <!-- End Portfolio Section -->
     </main>
-    <!-- End #main -->      
+    <!-- End #main -->
+    <!-- <a
+      href="#"
+      class="back-to-top d-flex align-items-center justify-content-center"
+      ><i class="bi bi-arrow-up-short"></i
+    ></a>       -->
   </body>
 </template>
 
 <style></style>
 
-<script>
-  export default {
-    data: function () {
-      return {
-        message: "Welcome to Vue.js!",
-      };
-    },
-    created: function () {},
-    methods: {},
-  };
-</script>
+// <script>
+//   export default {
+//     data: function () {
+//       return {
+//         message: "Welcome to Vue.js!",
+//       };
+//     },
+//     created: function () {},
+//     methods: {},
+//   };
+// </script>
