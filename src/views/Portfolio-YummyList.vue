@@ -1,6 +1,11 @@
 <template>
   <div>
     <body>
+      <!-- Google Fonts -->
+      <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet"
+      />      
       <!-- ======= Mobile nav toggle button ======= -->
       <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 
@@ -72,10 +77,10 @@
         <section id="breadcrumbs" class="breadcrumbs">
           <div class="container">
             <div class="d-flex justify-content-between align-items-center">
-              <h2>Portfolio Details</h2>
+              <h2>YummyList Details</h2>
               <ol>
                 <li><a href="/">Home</a></li>
-                <li>Portfolio Details</li>
+                <!-- <li>Portfolio Details</li> -->
               </ol>
             </div>
           </div>
