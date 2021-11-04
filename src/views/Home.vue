@@ -7,6 +7,12 @@
     >
       <div class="hero-container" data-aos="fade-in">
         <h1>Carlos Aguirre</h1>
+        </br>
+        </br>
+        </br>
+        </br>
+        </br>
+        </br>
         <!-- <p>
           I'm
           <span
