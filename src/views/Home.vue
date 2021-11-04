@@ -299,7 +299,7 @@
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img
-                  src="/assets/img/portfolio/cake.jpg"
+                  src="/assets/img/portfolio/yummylist-tile.jpg"
                   class="img-fluid"
                   alt=""
                 />
