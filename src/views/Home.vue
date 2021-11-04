@@ -7,13 +7,13 @@
     >
       <div class="hero-container" data-aos="fade-in">
         <h1>Carlos Aguirre</h1>
-        <p>
+        <!-- <p>
           I'm
           <span
             class="typed"
             data-typed-items="Developer, Consultant, Outdoor, Learner"
           ></span>
-        </p>
+        </p> -->
       </div>
     </section>
     <!-- End Hero -->
