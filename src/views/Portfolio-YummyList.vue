@@ -5,7 +5,9 @@
       <link
         href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
         rel="stylesheet"
-      />      
+      />
+      <link href="/assets/css/style.css" rel="stylesheet" />
+    
       <!-- ======= Mobile nav toggle button ======= -->
       <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 
@@ -96,21 +98,21 @@
                   <div class="swiper-wrapper align-items-center">
                     <div class="swiper-slide">
                       <img
-                        src="assets/img/portfolio/portfolio-details-1.jpg"
+                        src="/assets/img/portfolio/portfolio-details-1.jpg"
                         alt=""
                       />
                     </div>
 
                     <div class="swiper-slide">
                       <img
-                        src="assets/img/portfolio/portfolio-details-2.jpg"
+                        src="/assets/img/portfolio/portfolio-details-2.jpg"
                         alt=""
                       />
                     </div>
 
                     <div class="swiper-slide">
                       <img
-                        src="assets/img/portfolio/portfolio-details-3.jpg"
+                        src="/assets/img/portfolio/portfolio-details-3.jpg"
                         alt=""
                       />
                     </div>
@@ -123,9 +125,8 @@
                 <div class="portfolio-info">
                   <h3>Project information</h3>
                   <ul>
-                    <li><strong>Category</strong>: Web design</li>
-                    <li><strong>Client</strong>: ASU Company</li>
-                    <li><strong>Project date</strong>: 01 March, 2020</li>
+                    <li><strong>Category</strong>: Application development</li>
+                    <li><strong>Project date</strong>: August 2021</li>
                     <li>
                       <strong>Project URL</strong>:
                       <a href="#">www.example.com</a>
@@ -133,14 +134,15 @@
                   </ul>
                 </div>
                 <div class="portfolio-description">
-                  <h2>This is an example of portfolio detail</h2>
+                  <h2>Customize your lists of favorite restaurants on YummyList</h2>
                   <p>
-                    Autem ipsum nam porro corporis rerum. Quis eos dolorem eos
-                    itaque inventore commodi labore quia quia. Exercitationem
-                    repudiandae officiis neque suscipit non officia eaque itaque
-                    enim. Voluptatem officia accusantium nesciunt est omnis
-                    tempora consectetur dignissimos. Sequi nulla at esse enim cum
-                    deserunt eius.
+                    As part of my capstone for Actualize Coding Bootcamp, YummyList is an app where users can search for restaurants and save them to custom lists. I came up with this idea because I often struggle to remember my favorite restaurants for whatever occassion - breakfast, dinner with friends, date night, etc. Instead of saving my restaurants across multiple platforms, I can search, save and quickly access them on a single app. 
+                    </br>
+                    </br>
+                    YummyList was built on a Rails backend and a Vue frontend. Restaurants data were integrated from the Documenu API and are specific to Washington, DC. The YummyList homepage is linked above and a recording of my capstone presentation is to the left. Enjoy!
+                    </br>
+                    </br>
+
                   </p>
                 </div>
               </div>
