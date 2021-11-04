@@ -319,7 +319,7 @@
             </div>
 
             <!-- Project 2 -->
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
               <div class="portfolio-wrap">
                 <img
                   src="/assets/img/portfolio/portfolio-2.jpg"
@@ -339,10 +339,10 @@
                   ></a>
                 </div>
               </div>
-            </div>
+            </div> -->
 
             <!-- Project 3 -->
-            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img
                   src="/assets/img/portfolio/portfolio-3.jpg"
@@ -362,9 +362,9 @@
                   ></a>
                 </div>
               </div>
-            </div>
+            </div> -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
               <div class="portfolio-wrap">
                 <img
                   src="/assets/img/portfolio/portfolio-4.jpg"
@@ -494,7 +494,7 @@
                   ></a>
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </section>
