@@ -24,7 +24,7 @@
         <nav id="navbar" class="nav-menu navbar">
           <ul>
             <li>
-              <a href="#top" class="nav-link scrollto"
+              <a href="/" class="nav-link scrollto"
                 ><i class="bx bx-home"></i> <span>Home</span></a
               >
             </li>
