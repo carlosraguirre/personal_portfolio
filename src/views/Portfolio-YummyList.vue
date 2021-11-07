@@ -1,5 +1,9 @@
 <template>
   <div>
+    <head>
+      <!-- The script tag should live in the head of your page if at all possible -->
+      <script type="application/javascript" async src="https://play.vidyard.com/embed/v4.js"></script>  
+    </head>
     <body>
       <!-- Google Fonts -->
       <link
@@ -10,7 +14,7 @@
     
       <!-- ======= Mobile nav toggle button ======= -->
       <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
-
+     
       <!-- ======= Header ======= -->
       <header id="header">
         <div class="d-flex flex-column">
@@ -69,7 +73,7 @@
               </li>
             </ul>
           </nav> -->
-          <!-- .nav-menu -->
+          <!-- .nav-menu -->         
         </div>
       </header>
       <!-- End Header -->
@@ -98,9 +102,13 @@
                   <div class="swiper-wrapper align-items-center">
                     <div class="swiper-slide">
                       <img
-                        src="/assets/img/portfolio/portfolio-details-yummylist.jpg"
-                        alt=""
-                      />
+                        style="width: 100%; margin: auto; display: block;"
+                        class="vidyard-player-embed"
+                        src="https://play.vidyard.com/SSR2ykRdEnDAWvYNzecqCg.jpg"
+                        data-uuid="SSR2ykRdEnDAWvYNzecqCg"
+                        data-v="4"
+                        data-type="inline" 
+                      />                   
                     </div>
 
                     <div class="swiper-slide">
@@ -129,7 +137,7 @@
                     <li><strong>Project date</strong>: August 2021</li>
                     <li>
                       <strong>Project URL</strong>:
-                      <a href="#">www.example.com</a>
+                      <a href="https://yummylist.netlify.app/">https://yummylist.netlify.app/</a>
                     </li>
                   </ul>
                 </div>
