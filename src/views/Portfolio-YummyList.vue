@@ -111,7 +111,7 @@
                       />                   
                     </div>
 
-                    <div class="swiper-slide">
+                    <!-- <div class="swiper-slide">
                       <img
                         src="/assets/img/portfolio/portfolio-details-2.jpg"
                         alt=""
@@ -123,7 +123,7 @@
                         src="/assets/img/portfolio/portfolio-details-3.jpg"
                         alt=""
                       />
-                    </div>
+                    </div> -->
                   </div>
                   <div class="swiper-pagination"></div>
                 </div>
