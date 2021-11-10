@@ -19,6 +19,8 @@
         </br>
         </br>
         </br>
+        </br>
+        </br>        
         <!-- <p>
           I'm
           <span
@@ -330,7 +332,7 @@
                     title="App 1">
                     <i class="bx bx-plus"></i>
                   </a> -->
-                  <a href="/yummylist" title="More Details"
+                  <a href="www.carlosaguirre.netlify.app/yummylist" title="More Details"
                     ><span>YummyList</span>
                   </a>
                 </div>
