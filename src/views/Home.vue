@@ -46,18 +46,25 @@
               <h3>Full Stack Web Developer</h3>
               </br>
               <p class="fst-italic">
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+                I am a Washington DC based software engineer with a passion for building, creativity, learning, and problem solving. Ever since I started coding, I haven’t stop thinking about all the projects I could build: from building simple apps for personal enjoyment and to exploring new ways to expand my learning and interests.
+                </br>
+                </br>
+                Prior to being a software engineer, I was an auditor and a financial management consultant. While different from coding, those unique experiences helped me establish an attention to detail, develop my critical thinking and utilize my penchant for helping clients achieve their goals.
+                </br>
+                </br>
+                After almost four years in consulting, I decided to try something new where I could fuel my creativity and passion for building. Enter coding. From my first YouTube tutorial, I was captivated by the beauty of building from scratch, tinkering and even successfully running 1 line of code. A profession and hobby where I can express myself through code is where I want to be.
+                </br>
+                </br>
+                And now at the beginning of my new software engineering career I’m eager to take my craft and not only better myself, but also help others.
               </p>
+              </br>
               <div class="row">
                 <div class="col-lg-6">
                   <ul>
-                    <li>
+                    <!-- <li>
                       <i class="bi bi-chevron-right"></i>
                       <strong>Blog:</strong> <span>www.example.com</span>
-                    </li>
+                    </li> -->
                     <li>
                       <i class="bi bi-chevron-right"></i>
                       <strong>City:</strong> <span>Washington, D.C.</span>
