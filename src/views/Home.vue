@@ -332,7 +332,7 @@
                     title="App 1">
                     <i class="bx bx-plus"></i>
                   </a> -->
-                  <a href="www.carlosaguirre.netlify.app/yummylist" title="More Details"
+                  <a href="carlosaguirre.netlify.app/yummylist" title="More Details"
                     ><span>YummyList</span>
                   </a>
                 </div>
