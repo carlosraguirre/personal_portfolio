@@ -51,7 +51,7 @@
                 Prior to being a software engineer, I was an auditor and a financial management consultant. While different from coding, those unique experiences helped me establish an attention to detail, develop my critical thinking and utilize my penchant for helping clients achieve their goals.
                 </br>
                 </br>
-                After almost four years in consulting, I decided to try something new where I could fuel my creativity and passion for building. Enter coding. From my first YouTube tutorial, I was captivated by the beauty of building from scratch, tinkering and even successfully running 1 line of code. A profession and hobby where I can express myself through code is where I want to be.
+                After almost four years in consulting, I decided to try something new where I could fuel my creativity and passion for building. Enter coding. From my first YouTube tutorial, I was captivated by the beauty of building from scratch, tinkering and even successfully running one line of code. A profession and hobby where I can express myself through code is where I want to be.
                 </br>
                 </br>
                 And now at the beginning of my new software engineering career I’m eager to take my craft and not only better myself, but also help others.
