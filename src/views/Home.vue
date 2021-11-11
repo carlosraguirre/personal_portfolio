@@ -329,9 +329,9 @@
                     title="App 1">
                     <i class="bx bx-plus"></i>
                   </a> -->
-                  <a href="/yummylist" title="More Details"
+                  <router-link to="/yummylist" title="More Details"
                     ><span>YummyList</span>
-                  </a>
+                  </router-link>
                 </div>
               </div>
             </div>
