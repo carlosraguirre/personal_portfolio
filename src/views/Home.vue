@@ -138,7 +138,7 @@
               <div class="resume-item">
                 <ul>
                   <li>
-                    Ruby, Rails, Vue.js, JavaScript, Python, Django, HTML, CSS, PostgreSQL, Git, GitHub, APIs, Pair-Programming, Testing, Object-Oriented Programming, Bootstrap
+                    Ruby, Rails, Vue.js, JavaScript, Python, Django, HTML, CSS, PostgreSQL, Git, GitHub, APIs, Pair-Programming, Testing, Object-Oriented Programming, Bootstrap, Heroku, Netlify
                   </li>
                 </ul>
               </div>
