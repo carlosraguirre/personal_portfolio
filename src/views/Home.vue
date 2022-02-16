@@ -75,7 +75,7 @@
                     </li>
                     <li>
                       <i class="bi bi-chevron-right"></i>
-                      <strong>Current project:</strong> <span>Open to network</span>
+                      <strong>Current project:</strong> <span>Looking for my first sofware engineering role</span>
                     </li>                    
                   </ul>
                 </div>
