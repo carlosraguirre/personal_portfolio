@@ -1,19 +1,8 @@
-# personal_blog
+# My Personal Portfolio
 
-## Project setup
-```
-npm install
-```
+## Website
+Check out my personal portfolio [here:] (https://carlosaguirre.netlify.app/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Tech
+- I created my portfolio using Vue.js
+- Theme is from bootstrap
